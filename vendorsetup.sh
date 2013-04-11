@@ -1,0 +1,3 @@
+add_lunch_combo helium_maguro-userdebug
+add_lunch_combo helium_toro-userdebug
+add_lunch_combo helium_toroplus-userdebug
